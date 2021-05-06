@@ -15,14 +15,15 @@
 
 - It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows.
 
-- Ansible provisions servers managing their configurations & deploying applications either locally or in the cloud.
+- Ansible provisions servers managing their configurations & deploying applications either locally or in the cloud.It works by pushing changes
+  to all servers(by default)
 
 
-My plan it to develop this project in 2 phases.
+My plan is to develop this project in 2 phases.
 
-**Phase 1:** Deploying locally.
+**Phase 1:** Deploying Ansible & Vagrant locally.
 
-**Phase 2:** Deploying to Google Cloud.
+**Phase 2:** Deploying Ansible & Vagrant to Google Cloud.
 
 **Tools used:**
 1. GitKraken - a Git GUI tool.
@@ -31,4 +32,15 @@ My plan it to develop this project in 2 phases.
 
 3. VMWare Workstation.
 
+## Initial setup
+
+- Ansible's only dependency is Python,On linux this comes by default.
+
+**Ansible installation**
+
+$ sudo pip install ansible
+
+**Upgrade ansible with**
+
+$ pip install --upgrade ansible
 

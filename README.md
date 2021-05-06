@@ -68,19 +68,17 @@ OR (i.e if you dont want to keep typing the SSH password)
 
 └──╼ $ansible all -m ping
 
-![result](1stcmd.png)
+![result](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Images%20%26%20gifs/1stcmd.png)
 
 **See memory usage**
 
 └──╼ $ ansible servers -a "free -m" -u [ubuntu_server_1]
 
-![memory usage](link)
+![memory usage](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Images%20%26%20gifs/memory%20usage.png)
 
 ### Other fun ansible commands
 
 └──╼ $ansible all -m setup   ---> Gathering facts.
 
-└──╼ $ ansible abc -m copy -a "src = /etc/yum.conf dest = /tmp/yum.conf"
-
-
+└──╼ $ ansible abc -m copy -a "src = /etc/yum.conf dest = /tmp/yum.conf" ---> Copying a file
 

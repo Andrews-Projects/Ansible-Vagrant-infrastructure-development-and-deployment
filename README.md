@@ -1,4 +1,4 @@
-# Ansible & Vagrant local infrastructure development and deployment
+# Ansible & Vagrant infrastructure development and deployment
 
 
 # Introduction

@@ -32,15 +32,6 @@ My plan is to develop this project in 2 phases.
 
 3. VMWare Workstation.
 
-## Initial setup
+## ![Initial setup]()
 
-- Ansible's only dependency is Python,On linux this comes by default.
-
-**Ansible installation**
-
-$ sudo pip install ansible
-
-**Upgrade ansible with**
-
-$ pip install --upgrade ansible
 

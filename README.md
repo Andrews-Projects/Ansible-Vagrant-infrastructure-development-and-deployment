@@ -33,6 +33,6 @@ My plan is to develop this project in 2 phases.
 
 3. VMWare Workstation.
 
-## ![Initial setup](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Initial-setup.md)
+## [Initial setup](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Initial-setup.md)
 
 

@@ -4,11 +4,11 @@
 
 - Ansible's only dependency is Python,On linux this comes by default.
 
-**Ansible installation**
+### Ansible installation
 
 $ sudo pip install ansible
 
-**for Ubuntu**
+### for Ubuntu:
 
 $ sudo apt-add-repository -y ppa:ansible/ansible
 
@@ -16,14 +16,10 @@ $ sudo apt-get update
 
 $ sudo apt-get install -y ansible
 
-**Upgrade ansible with**
+### Upgrade ansible with:
 
 $ pip install --upgrade ansible
 
-**test installation success with**
+### test installation success with:
 
 $ ansible --version
-
-
-
-

@@ -41,12 +41,10 @@ My plan is to develop this project in 2 phases.
 
 I'm impressed as to the array of tools listed by the ubuntu server including the Google Cloud SDK.
 
-[List of tools](image link/tools.png)
+![List of tools](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Images%20%26%20gifs/tools.png)
 
 ### Installation complete
 
 Apparently 2 ubuntu servers can run simultaneously using the same network card but in different windowes,it was a success.
 
-## [The 2 servers](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Images%20%26%20gifs/ubuntu_servers.png)
-
-
+## ![The 2 servers](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Images%20%26%20gifs/ubuntu_servers.png)

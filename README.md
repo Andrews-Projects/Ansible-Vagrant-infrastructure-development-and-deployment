@@ -3,7 +3,8 @@
 
 # Introduction
 
-[Vagrant + Ansible + virtual box]()
+![Vagrant + Ansible + virtual box](https://github.com/House-Of-Research/Ansible-Vagrant-local-infrastructure-development-and-deployment/blob/main/Images%20%26%20gifs/Vagrant-Ansible3.png)
+
 ## Vagrant 
 
 - This is a great tool for managing local virtual machines to mimic real world infrastructure locally or in the cloud.

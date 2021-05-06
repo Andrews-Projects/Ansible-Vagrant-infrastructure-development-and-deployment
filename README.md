@@ -35,4 +35,4 @@ My plan is to develop this project in 2 phases.
 
 ## [Initial setup explained here:](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Initial-setup.md)
 
-
+![]()

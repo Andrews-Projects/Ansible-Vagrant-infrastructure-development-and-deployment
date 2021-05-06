@@ -16,6 +16,13 @@ $ sudo apt-get update
 
 $ sudo apt-get install -y ansible
 
+### If you're on RHEL/CentOS 6:
+
+$ rpm -ivh http://dl.fedoraproject.org/pub/epel/6/x86_64/\
+epel-release-6-8.noarch.rpm
+
+$ yum install epel-release
+
 ### Upgrade ansible with:
 
 $ pip install --upgrade ansible

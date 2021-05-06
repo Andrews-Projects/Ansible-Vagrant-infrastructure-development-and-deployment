@@ -21,3 +21,8 @@ My plan it to develop this project in 2 phases.
 **Phase 1:** Deploying locally.
 
 **Phase 2:** Deploying to Google Cloud.
+
+**Tools used:**
+1. GitKraken - a Git GUI.
+
+2. Debian based O.S.

@@ -9,6 +9,7 @@
 $ sudo pip install ansible
 
 **for Ubuntu**
+
 $ sudo apt-add-repository -y ppa:ansible/ansible
 
 $ sudo apt-get update

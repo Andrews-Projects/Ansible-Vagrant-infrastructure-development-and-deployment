@@ -47,4 +47,6 @@ I'm impressed as to the array of tools listed by the ubuntu server including the
 
 Apparently 2 ubuntu servers can run simultaneously using the same network card but in different windowes,it was a success.
 
-[The 2 servers]()
+## [The 2 servers](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Images%20%26%20gifs/ubuntu_servers.png)
+
+

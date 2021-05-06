@@ -25,7 +25,7 @@ My plan is to develop this project in 2 phases.
 
 **Phase 2:** Deploying Ansible & Vagrant to Google Cloud.
 
-##Tools used:**
+## Tools used:
 
 1. GitKraken - a Git GUI tool.
 
@@ -33,6 +33,6 @@ My plan is to develop this project in 2 phases.
 
 3. VMWare Workstation.
 
-## [Initial setup explained here](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Initial-setup.md)
+## [Initial setup explained here:](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Initial-setup.md)
 
 

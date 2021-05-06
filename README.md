@@ -48,3 +48,39 @@ I'm impressed as to the array of tools listed by the ubuntu server including the
 Apparently 2 ubuntu servers can run simultaneously using the same network card but in different windowes,it was a success.
 
 ## ![The 2 servers](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Images%20%26%20gifs/ubuntu_servers.png)
+
+### Create a inventory file
+
+└──╼ $ sudo mkdir /etc/ansible
+
+└──╼ $ sudo touch /etc/ansible/hosts
+
+- The hosts file should contain the server(s) details,In my case:
+
+[servers]
+192.168.x.x 
+
+OR (i.e if you dont want to keep typing the SSH password)
+
+192.168.x.x ansible_ssh_pass=xxxx ansible_ssh_user=user
+
+### Running an Ad-Hoc command
+
+└──╼ $ansible all -m ping
+
+![result](1stcmd.png)
+
+**See memory usage**
+
+└──╼ $ ansible servers -a "free -m" -u [ubuntu_server_1]
+
+![memory usage](link)
+
+### Other fun ansible commands
+
+└──╼ $ansible all -m setup   ---> Gathering facts.
+
+└──╼ $ ansible abc -m copy -a "src = /etc/yum.conf dest = /tmp/yum.conf"
+
+
+

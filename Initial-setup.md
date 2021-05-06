@@ -30,3 +30,6 @@ $ pip install --upgrade ansible
 ### test installation success with:
 
 $ ansible --version
+
+### Installation successful
+![](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Images%20%26%20gifs/ansible-install.png)

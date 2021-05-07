@@ -63,6 +63,7 @@ Apparently 2 ubuntu servers can run simultaneously using the same network card b
 - The hosts file should contain the server(s) details,In my case:
 
 [servers]
+
 192.168.x.x 
 
 OR (i.e if you dont want to keep typing the SSH password)

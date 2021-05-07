@@ -49,6 +49,11 @@ Apparently 2 ubuntu servers can run simultaneously using the same network card b
 
 ## ![The 2 servers](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Images%20%26%20gifs/ubuntu_servers.png)
 
+### Here is a simple chart as to how everything has theoretically been set up
+
+![chart]()
+
+ 
 ### Create a inventory file
 
 └──╼ $ sudo mkdir /etc/ansible

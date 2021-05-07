@@ -23,7 +23,7 @@ My plan is to develop this project in 2 phases.
 
 **Phase 1:** Deploying Ansible & Vagrant locally.
 
-**Phase 2:** Deploying Ansible & Vagrant to Google Cloud.  ## ![Cloud Solution](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Cloud%20solution.md)
+**Phase 2:** Deploying Ansible & Vagrant to Google Cloud. -----> [Cloud Solution](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Cloud%20solution.md)
 
 # PHASE 1:
 

@@ -47,8 +47,14 @@ Download vagrant from their website,depending on your system type [Vagrant](http
 ┌─[andrew@parrot]─[~/Desktop]
 └──╼ $mkdir vagrantfile && cd vagrantfile
 
+Add a virtual box using
 
+└──╼ $ vagrant add
 
+└──╼ $ vagrant init
 
+### Boot Ubuntu server
+
+└──╼ $ vagrant up
 
 

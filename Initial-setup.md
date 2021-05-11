@@ -42,19 +42,18 @@ Vagrant is a server provisioning tool
 
 Download vagrant from their website,depending on your system type [Vagrant](https://www.vagrantup.com/downloads)
 
+Verify installation 
+
+└──╼ $ vagrant --help
+
 - Create a new folder where youll keep your Vagrant file & provisioning instructions 
 
 ┌─[andrew@parrot]─[~/Desktop]
 └──╼ $mkdir vagrantfile && cd vagrantfile
 
-Add a virtual box using
+## Creating a Local Vagrant Box from an ISO i.e Ubuntu Server(rather than using a pre-made image)
 
-└──╼ $ vagrant add
+Using packer (A tool by HashiCorp to automate image creation) ---> [](https://learn.hashicorp.com/tutorials/packer/get-started-install-cli?in=packer/docker-get-started)
 
-└──╼ $ vagrant init
-
-### Boot Ubuntu server
-
-└──╼ $ vagrant up
-
+└──╼ $ sudo apt-get update && sudo apt-get install packer
 

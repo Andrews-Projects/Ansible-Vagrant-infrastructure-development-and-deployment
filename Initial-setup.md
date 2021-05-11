@@ -1,6 +1,6 @@
-## This page explains the basic initial setup
+## This page explains the basic initial setup of Ansible & Vagrant
 
-## Initial setup
+## Initial setup ---> Ansible
 
 - Ansible's only dependency is Python,On linux this comes by default.
 
@@ -33,6 +33,22 @@ $ ansible --version
 
 ### Installation successful
 ![](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Images%20%26%20gifs/ansible-install.png)
+
+
+
+## Initial setup ---> Vagrant
+
+Vagrant is a server provisioning tool
+
+Download vagrant from their website,depending on your system type [Vagrant](https://www.vagrantup.com/downloads)
+
+- Create a new folder where youll keep your Vagrant file & provisioning instructions 
+
+┌─[andrew@parrot]─[~/Desktop]
+└──╼ $mkdir vagrantfile && cd vagrantfile
+
+
+
 
 
 

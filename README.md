@@ -90,4 +90,4 @@ OR (i.e if you dont want to keep typing the SSH password)
 
 └──╼ $ ansible abc -m copy -a "src = /etc/yum.conf dest = /tmp/yum.conf" ---> Copying a file
 
-![](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Images%20%26%20gifs/the_end.jpeg)
+![](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Images%20%26%20gifs/thats_all_folks-svg.png)

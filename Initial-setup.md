@@ -57,4 +57,3 @@ Using packer (A tool by HashiCorp to automate image creation) ---> [](https://le
 
 └──╼ $ sudo apt-get update && sudo apt-get install packer
 
-![]()

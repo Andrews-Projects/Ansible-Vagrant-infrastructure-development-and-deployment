@@ -4,4 +4,4 @@
 
 I may use: 
 - Datadog,cloud monitoring as a service
-- A Bastion host (A strengthened computer)
+- A Bastion host (A strengthened computer) [Article](https://annaken.github.io/building-a-secure-bastion/)

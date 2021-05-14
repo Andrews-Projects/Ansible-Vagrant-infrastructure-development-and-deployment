@@ -2,4 +2,6 @@
 
 ![Image diagram](https://github.com/Andrews-Projects/Ansible-Vagrant-infrastructure-development-and-deployment/blob/main/Images%20%26%20gifs/Cloud%20images/cloud.png)
 
-I may use Datadog,cloud monitoring as a service
+I may use: 
+- Datadog,cloud monitoring as a service
+- A Bastion host (A strengthened computer)

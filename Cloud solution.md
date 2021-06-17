@@ -44,6 +44,4 @@ New password:
 Retype new password:
 passwd: password updated successfully
 
-![SSH into Instances]()
-
 

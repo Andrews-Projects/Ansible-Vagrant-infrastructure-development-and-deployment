@@ -33,7 +33,9 @@ Problems can arise when you try to SSH into the ubuntu instances,make the below 
 
 └──╼ $ sudo nano /etc/ssh/sshd_config
 
+
 PermitRootLogin prohibit-password to PermitRootLogin yes 
+
 
 PasswordAuthentication no to PasswordAuthentication yes
 
@@ -45,7 +47,9 @@ PasswordAuthentication no to PasswordAuthentication yes
 
 New password:
 
+
 Retype new password:
+
 
 passwd: password updated successfully
 

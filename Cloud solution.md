@@ -32,7 +32,9 @@ Installing the Google cloud SDK into my Ubuntu OS I created a GCP project ![Proj
 Problems can arise when you try to SSH into the ubuntu instances,make the below changes
 
 └──╼ $ sudo nano /etc/ssh/sshd_config
+
 PermitRootLogin prohibit-password to PermitRootLogin yes 
+
 PasswordAuthentication no to PasswordAuthentication yes
 
 └──╼ $ sudo service ssh restart
@@ -40,8 +42,11 @@ PasswordAuthentication no to PasswordAuthentication yes
 ### Also changing the default password can help
 
 └──╼ $ sudo passwd
+
 New password:
+
 Retype new password:
+
 passwd: password updated successfully
 
 

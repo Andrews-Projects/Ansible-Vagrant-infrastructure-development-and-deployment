@@ -6,6 +6,7 @@
 #
 # Synced at 2018-08-12
 #
+
 ---
 - hosts: fsl_hosts
   user: root

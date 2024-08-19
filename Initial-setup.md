@@ -36,6 +36,7 @@ $ ansible --version
 
 
 
+
 ## Initial setup ---> Vagrant
 
 Vagrant is a server provisioning tool
